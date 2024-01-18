@@ -70,5 +70,78 @@
         "chapters": 8,
         "hours": 2
       }
-    ]
+    ],
+
+      "users": [
+        {
+          "id": 1,
+          "image": "https://t3.ftcdn.net/jpg/02/68/56/00/360_F_268560006_F2fIixDnlVRNGwCyne9EMQJhaAxalKTq.webp",
+          "title": "Fundamentals of Product Design",
+          "work": "Product",
+          "name": "Shreyas Doshi"
+        },
+        {
+          "id": 2,
+          "image": "https://t3.ftcdn.net/jpg/02/68/56/00/360_F_268560006_F2fIixDnlVRNGwCyne9EMQJhaAxalKTq.webp",
+          "title": "Fundamentals of Product Design",
+          "work": "Product",
+          "name": "Shreyas Doshi"
+        },
+        {
+          "id": 3,
+          "image": "https://t3.ftcdn.net/jpg/02/68/56/00/360_F_268560006_F2fIixDnlVRNGwCyne9EMQJhaAxalKTq.webp",
+          "title": "Fundamentals of Product Design",
+          "work": "Product",
+          "name": "Shreyas Doshi"        
+        },
+        {
+          "id": 4,
+          "image": "https://t3.ftcdn.net/jpg/02/68/56/00/360_F_268560006_F2fIixDnlVRNGwCyne9EMQJhaAxalKTq.webp",
+          "title": "Fundamentals of Product Design",
+          "work": "Product",
+          "name": "Shreyas Doshi"         
+        },
+        {
+          "id": 5,
+          "image": "https://t3.ftcdn.net/jpg/02/68/56/00/360_F_268560006_F2fIixDnlVRNGwCyne9EMQJhaAxalKTq.webp",
+          "title": "Fundamentals of Product Design",
+          "work": "Product",
+          "name": "Shreyas Doshi"       
+         },
+        {
+          "id": 6,
+          "image": "https://t3.ftcdn.net/jpg/02/68/56/00/360_F_268560006_F2fIixDnlVRNGwCyne9EMQJhaAxalKTq.webp",
+          "title": "Fundamentals of Product Design",
+          "work": "Product",
+          "name": "Shreyas Doshi"        
+        },
+        {
+          "id": 7,
+          "image": "https://t3.ftcdn.net/jpg/02/68/56/00/360_F_268560006_F2fIixDnlVRNGwCyne9EMQJhaAxalKTq.webp",
+          "title": "Fundamentals of Product Design",
+          "work": "Product",
+          "name": "Shreyas Doshi"        
+        },
+        {
+          "id": 8,
+          "image": "https://t3.ftcdn.net/jpg/02/68/56/00/360_F_268560006_F2fIixDnlVRNGwCyne9EMQJhaAxalKTq.webp",
+          "title": "Fundamentals of Product Design",
+          "work": "Product",
+          "name": "Shreyas Doshi"        
+        },
+        {
+          "id": 9,
+          "image": "https://t3.ftcdn.net/jpg/02/68/56/00/360_F_268560006_F2fIixDnlVRNGwCyne9EMQJhaAxalKTq.webp",
+          "title": "Fundamentals of Product Design",
+          "work": "Product",
+          "name": "Shreyas Doshi"        
+        },
+        {
+          "id": 10,
+          "image": "https://t3.ftcdn.net/jpg/02/68/56/00/360_F_268560006_F2fIixDnlVRNGwCyne9EMQJhaAxalKTq.webp",
+          "title": "Fundamentals of Product Design",
+          "work": "Product",
+          "name": "Shreyas Doshi"       
+        }
+      ]
   }
