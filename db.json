@@ -1,0 +1,74 @@
+{
+    "audio": [
+      {
+        "id": 1,
+        "image": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg",
+        "name": "Fundamentals of Product Design",
+        "chapters": 8,
+        "hours": 2
+      },
+      {
+        "id": 2,
+        "image": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg",
+        "name": "Fundamentals of Product Design",
+        "chapters": 8,
+        "hours": 2
+      },
+      {
+        "id": 3,
+        "image": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg",
+        "name": "Fundamentals of Product Design",
+        "chapters": 8,
+        "hours": 2
+      },
+      {
+        "id": 4,
+        "image": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg",
+        "name": "Fundamentals of Product Design",
+        "chapters": 8,
+        "hours": 2
+      },
+      {
+        "id": 5,
+        "image": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg",
+        "name": "Fundamentals of Product Design",
+        "chapters": 8,
+        "hours": 2
+      },
+      {
+        "id": 6,
+        "image": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg",
+        "name": "Fundamentals of Product Design",
+        "chapters": 8,
+        "hours": 2
+      },
+      {
+        "id": 7,
+        "image": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg",
+        "name": "Fundamentals of Product Design",
+        "chapters": 8,
+        "hours": 2
+      },
+      {
+        "id": 8,
+        "image": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg",
+        "name": "Fundamentals of Product Design",
+        "chapters": 8,
+        "hours": 2
+      },
+      {
+        "id": 9,
+        "image": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg",
+        "name": "Fundamentals of Product Design",
+        "chapters": 8,
+        "hours": 2
+      },
+      {
+        "id": 10,
+        "image": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg",
+        "name": "Fundamentals of Product Design",
+        "chapters": 8,
+        "hours": 2
+      }
+    ]
+  }
